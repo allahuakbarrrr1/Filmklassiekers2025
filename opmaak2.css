@@ -1,0 +1,42 @@
+#header{
+    position: relative;
+    margin-right: auto;
+    margin-left: auto;
+    width: 1100px;
+    height: 75px;
+    background-color: aqua;
+}
+
+#midden{
+    position: relative;
+    margin-right: auto;
+    margin-left: auto;
+    width: 1100px;
+    display: table;
+}
+
+#footer{
+    position: relative;
+    margin-right: auto;
+    margin-left: auto;
+    width: 1100px;
+    height: 50px;
+    background-color: blueviolet;
+}
+
+#menu{
+    display: table-cell;
+    top: 0px;
+    left: 0px;
+    width: 200px;
+    background-color: chartreuse;
+}
+
+#inhoud{
+    position: relative;
+    margin-right: auto;
+    margin-left: auto;
+    width: 1100px;
+    height: 50px;
+    background-color: blueviolet;
+}
